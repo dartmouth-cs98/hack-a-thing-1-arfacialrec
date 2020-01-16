@@ -11,7 +11,7 @@ import ARKit
 import SceneKit
 
 enum VirtualContentType: Int {
-    
+    case mesh
     func makeController() -> VirtualContentController {
             return FaceMesh()
     }

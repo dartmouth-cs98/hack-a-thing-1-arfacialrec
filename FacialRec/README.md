@@ -18,3 +18,6 @@ As I said previously, tutorials are outdated and oftentimes an out of date tutor
 ### What I ended up using from the Apple developer site
 - https://developer.apple.com/documentation/arkit/tracking_and_visualizing_faces
 
+## Sources
+FaceMesh.swift and VirtualContent.swift taken from Apple's Tracking and Visualizing Faces tutorial
+
